@@ -1,0 +1,5 @@
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Dominio\bin\Debug\Generico.Dominio.dll
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Dominio\bin\Debug\Generico.Dominio.pdb
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Dominio\obj\Debug\Generico.Dominio.csproj.CoreCompileInputs.cache
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Dominio\obj\Debug\Generico.Dominio.dll
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Dominio\obj\Debug\Generico.Dominio.pdb

@@ -1,0 +1,6 @@
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Funcoes\bin\Debug\Generico.Funcoes.dll
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Funcoes\bin\Debug\Generico.Funcoes.pdb
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Funcoes\obj\Debug\Generico.Funcoes.csprojAssemblyReference.cache
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Funcoes\obj\Debug\Generico.Funcoes.csproj.CoreCompileInputs.cache
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Funcoes\obj\Debug\Generico.Funcoes.dll
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Funcoes\obj\Debug\Generico.Funcoes.pdb

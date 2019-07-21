@@ -1,0 +1,8 @@
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Repositorio\bin\Debug\Generico.Repositorio.dll
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Repositorio\bin\Debug\Generico.Repositorio.pdb
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Repositorio\bin\Debug\Oracle.DataAccess.dll
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Repositorio\obj\Debug\Generico.Repositorio.csprojAssemblyReference.cache
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Repositorio\obj\Debug\Generico.Repositorio.csproj.CoreCompileInputs.cache
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Repositorio\obj\Debug\Generico.Repositorio.csproj.CopyComplete
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Repositorio\obj\Debug\Generico.Repositorio.dll
+C:\GitHub\ProjetoAspNetMvcOracleSqlServer\ProjetoSolucao\Generico.Repositorio\obj\Debug\Generico.Repositorio.pdb
